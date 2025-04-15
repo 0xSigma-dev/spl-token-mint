@@ -1,0 +1,25 @@
+{
+    "name": "{TOKEN NAME}",
+    "symbol": "{TICKER}",
+    "description": "{DESCRIPTION}",
+    "image": "{DIRECT LINK TO IMAGE FROM IPFS}",
+    "attributes": [
+      {
+        "trait_type": "Utility",
+        "value": "Rewards"
+      },
+      {
+        "trait_type": "Network",
+        "value": "Solana"
+      }
+    ],
+    "properties": {
+      "files": [
+        {
+          "uri": "{DIRECT LINK TO IMAGE FROM IPFS}",
+          "type": "image/png"
+        }
+      ]
+    }
+  }
+  
